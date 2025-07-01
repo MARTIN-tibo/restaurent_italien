@@ -235,6 +235,7 @@ const Reservation = () => {
                 <img
                   src="https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                   alt="Intérieur chaleureux du restaurant"
+                  loading="lazy"
                   className="w-full h-64 object-cover"
                 />
               </div>
