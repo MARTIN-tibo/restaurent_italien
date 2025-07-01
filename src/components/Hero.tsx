@@ -49,6 +49,8 @@ const Hero = () => {
             }`}
           >
             <div
+              role="img"
+              aria-label={slide.title}
               className="h-full bg-cover bg-center"
               style={{ backgroundImage: `url(${slide.image})` }}
             >
